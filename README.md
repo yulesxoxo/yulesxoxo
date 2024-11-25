@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![](https://dcbadge.limes.pink/api/shield/518169167048998913)
+
+
+
 <!--
 **yulesxoxo/yulesxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
