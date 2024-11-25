@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/518169167048998913)
 
 <!--
 **yulesxoxo/yulesxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
