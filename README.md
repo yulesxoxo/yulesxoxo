@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://dcbadge.limes.pink/api/shield/518169167048998913)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=518169167048998913)
 
 
 
